@@ -1,3 +1,3 @@
 # Manga-Downloader
 
-See https://github.com/yuru-yuri/manga-dl
+See <a href="https://github.com/yuru-yuri/manga-dl">https://github.com/yuru-yuri/manga-dl</a>
